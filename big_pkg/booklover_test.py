@@ -1,6 +1,6 @@
 import unittest
 import pandas as pd
-from big_pkg import BookLover
+from booklover.booklover import BookLover
 
 
 class BookLoverTestSuite(unittest.TestCase):
